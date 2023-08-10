@@ -7,5 +7,6 @@ public class Test {
         int n1 =9;
         int n6 = 20;
         int j9 =30;
+        int n8 = 455;
     }
 }
