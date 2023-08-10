@@ -5,6 +5,8 @@ public class Animal {
         System.out.println("hello guys");
         for (int i = 0; i < 10; i++) {
             System.out.println(i);;
+            System.out.println("heele");
+            System.out.println("hh");
 
         }
     }
