@@ -5,6 +5,7 @@ public class githuptest {
         for (int i = 0; i < 10; i++) {
             System.out.println(i);
             int n = 29;
+            int n3 = 59;
 
         }
     }
