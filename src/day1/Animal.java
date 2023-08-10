@@ -7,7 +7,9 @@ public class Animal {
             System.out.println(i);;
             System.out.println("heele");
             System.out.println("hh");
+            System.out.println("diwud");
 
         }
     }
+
 }
