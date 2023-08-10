@@ -5,5 +5,6 @@ public class Test {
         int n = 10;
         String A ="KAMART";
         int n1 =9;
+        int n6 = 20;
     }
 }
